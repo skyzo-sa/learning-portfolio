@@ -1,0 +1,15 @@
+# Python Network Automation Dependencies
+
+# Network Automation
+netmiko
+napalm
+paramiko
+
+# HTTP / REST APIs
+requests
+
+# Data Processing
+tabulate
+
+# Environment Variables
+python-dotenv
