@@ -4,6 +4,7 @@
 netmiko
 napalm
 paramiko
+nornir
 
 # HTTP / REST APIs
 requests
