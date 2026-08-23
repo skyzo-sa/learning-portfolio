@@ -7,6 +7,7 @@ This lab demonstrates how to use Python and the `netmiko` library to automate co
 * **Environment:** EVE-NG
 * **Device:** 1x Cisco IOS Router (R1)
 * **Management Network:** The router is connected to a Cloud management network (`192.168.1.0/24`) via interface `Gi0/0`, which receives its IP address (`192.168.1.23`) via DHCP.
+python-network-automation/one-cisco-router-network-automation-lab/topology/topology.png
 
 ## Prerequisites
 * Python 3.x installed (developed in VS Code)
