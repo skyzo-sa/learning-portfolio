@@ -28,3 +28,4 @@ The `netmiko_run_multiple_commands.py` script performs the following sequence:
 ## Verification
 You can verify the configuration on the router console. Syslog messages will show the configuration being updated from a VTY line, the Line protocol for Loopback0 changing to 'up', and the GRUB configuration being written to disk successfully. Running `show ip int brief` will confirm `Loopback0` is configured with `7.7.7.7`.
 ![Router Console Output](verification/verfication.png)
+
