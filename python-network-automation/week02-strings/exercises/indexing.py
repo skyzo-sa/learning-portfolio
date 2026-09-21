@@ -1,4 +1,6 @@
 # INDEXING STRINGS
+print('#' * 10 + 'INDEXING STRINGS' + '#' * 10)
+
 """
 A string is ordered sequence of UTF-8 encoded characters
 

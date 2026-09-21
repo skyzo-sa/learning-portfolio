@@ -1,4 +1,6 @@
 # GETTING USER INPUT
+print('#' * 10 + 'GETTING USER INPUT' + '#' * 10)
+
 
 # name = input('Enter your name:')
 # print('Your name is ', name)

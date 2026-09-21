@@ -1,0 +1,13 @@
+============================================================
+Script Name: netmiko_router_config_backup.py
+
+
+Purpose:
+This script uses Netmiko to connect to a Cisco IOS router via
+SSH, enter privileged EXEC (enable) mode, retrieve the running
+configuration, and save it to a text file.
+
+
+The backup filename is automatically created using the router's
+hostname, for example: R3-backup.txt
+============================================================

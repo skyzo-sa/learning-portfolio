@@ -1,0 +1,17 @@
+============================================================
+Script Name: netmiko_backup_multiple_routers.py
+
+
+Purpose:
+This script automatically connects to multiple Cisco IOS routers using Netmiko and SSH.
+
+
+For each router, the script:
+1. Establishes an SSH connection.
+2. Enters privileged EXEC (enable) mode.
+3. Retrieves the running configuration.
+4. Detects the router hostname.
+5. Creates a backup filename using the hostname.
+6. Saves the running configuration to a text file.
+7. Handles connection and authentication errors.
+============================================================

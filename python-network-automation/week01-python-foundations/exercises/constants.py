@@ -1,3 +1,5 @@
+print('#' * 10 + 'CONSTANTS' + '#' * 10)
+
 # "Constants" values are often written with UPPER-CASE letters;
 PI = 3.14
 SECONDS_IN_HOUR = 3600

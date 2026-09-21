@@ -1,3 +1,5 @@
+print('#' * 10 + 'COMMENTS' + '#' * 10)
+
 # this is a comment
 
 # a = 5

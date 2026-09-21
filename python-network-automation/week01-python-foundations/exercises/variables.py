@@ -1,3 +1,6 @@
+print('#' * 10 + 'variables' + '#' * 10)
+
+
 message = "Hello Python world!"
 print(message)
 

@@ -1,4 +1,6 @@
 # INTRO TO PYTHON STRINGS
+print('#' * 10 + 'strings_basics' + '#' * 10)
+
 
 name = "ada lovelace"
 print(name.title())

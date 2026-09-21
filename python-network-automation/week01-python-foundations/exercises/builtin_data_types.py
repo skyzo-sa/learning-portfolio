@@ -1,3 +1,5 @@
+print('#' * 10 + 'BUILT-IN DATA TYPES' + '#' * 10)
+
 # booleans
 age = 40
 name = 'Dan'
