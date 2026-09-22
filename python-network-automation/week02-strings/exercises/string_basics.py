@@ -1,5 +1,5 @@
 # INTRO TO PYTHON STRINGS
-print('#' * 10 + 'strings_basics' + '#' * 10)
+print('#' * 10 + ' STRING BASICS ' + '#' * 10)
 
 
 name = "ada lovelace"

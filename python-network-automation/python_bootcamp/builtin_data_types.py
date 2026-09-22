@@ -1,4 +1,4 @@
-# Numbers: Intergers, Floats, complex;
+# Numbers: Integers, Floats, complex;
 
 # Booleans: True, False;
 age =  40
