@@ -1,5 +1,5 @@
 # STRING CONCATENATION AND REPETITION
-print('#' * 10 + 'string_concatenation_and_repetition' + '#' * 10)
+print('#' * 10 + ' string_concatenation_and_repetition ' + '#' * 10)
 
 # + => the concatenating operator
 
