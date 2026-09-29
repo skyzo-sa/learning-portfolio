@@ -35,7 +35,7 @@ print(f'nums: {nums}') # [2, 3, 4]
 print(f'numbers: {numbers}') # [1, 2, 3, 4, 5]
 
 print(numbers[:3]) # start is default zero.
-print(numbers[2:]) # sto is default the end of the list.
+print(numbers[2:]) # stop is default the end of the list.
 print(numbers[::]) # [1, 2, 3, 4, 5]
 print(numbers[::-1]) # [5, 4, 3, 2, 1]
 
@@ -44,7 +44,8 @@ print('#' * 10 + ' LIST ITERATION ' + '#' * 10)
 ip_list = ['192.168.18.1', '192.168.18.2', '10.0.0.1']
 for ip in ip_list:
     print(f'Connecting to {ip}...')
+
 print('10.0.0.1' in ip_list) # True
 print('192.100.0.2' in ip_list) # False
-
+print('192' not in ip_list) # True
 
