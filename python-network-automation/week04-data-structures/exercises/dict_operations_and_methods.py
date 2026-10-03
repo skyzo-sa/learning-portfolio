@@ -1,5 +1,5 @@
-print('#' * 10 + ' DICTIONARY OPERATIONS AND METHODS ' + '#' * 10)
-# DICTIONARY OPERATIONS AND METHODS
+print('#' * 10 + ' DICTIONARY OPERATIONS AND METHODS - PART 1 ' + '#' * 10)
+# DICTIONARY OPERATIONS AND METHODS - PART 1
 
 person = {'name': 'John', 'age': 35, 'location':'Soweto'}
 
@@ -17,3 +17,7 @@ print(countries)
 
 person.clear()
 print(person, friend) # {} {}
+
+
+print('#' * 10 + ' DICTIONARY OPERATIONS AND METHODS - PART 2 ' + '#' * 10)
+# DICTIONARY OPERATIONS AND METHODS - PART 1
